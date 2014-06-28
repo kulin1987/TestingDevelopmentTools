@@ -1,0 +1,2 @@
+D:\TELERIK\KPK\HOMEWORKS\Homework - Development Tools\DevelopmentToolsHM\DevelopmentToolsHM\bin\Debug\DevelopmentToolsHM.exe.config
+D:\TELERIK\KPK\HOMEWORKS\Homework - Development Tools\TestingDevelopmentTools\DevelopmentToolsHM\bin\Debug\DevelopmentToolsHM.exe.config
